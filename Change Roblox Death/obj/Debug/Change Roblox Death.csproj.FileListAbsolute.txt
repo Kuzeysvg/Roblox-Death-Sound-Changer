@@ -1,0 +1,16 @@
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\bin\Debug\Change Roblox Death.exe.config
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\bin\Debug\Change Roblox Death.exe
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\bin\Debug\Change Roblox Death.pdb
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\bin\Debug\Interop.WMPLib.dll
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\obj\Debug\Change Roblox Death.csproj.AssemblyReference.cache
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\obj\Debug\Change Roblox Death.csproj.SuggestedBindingRedirects.cache
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\obj\Debug\Interop.WMPLib.dll
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\obj\Debug\Change Roblox Death.csproj.ResolveComReference.cache
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\obj\Debug\Change_Roblox_Death.Properties.Resources.resources
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\obj\Debug\Change Roblox Death.csproj.GenerateResource.cache
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\obj\Debug\Change Roblox Death.csproj.CoreCompileInputs.cache
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\obj\Debug\Change Roblox Death.exe
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\obj\Debug\Change Roblox Death.pdb
+C:\Users\kuzey\Masaüstü\C#\Change Roblox Death\Change Roblox Death\obj\Debug\Change_Roblox_Death.Form1.resources
